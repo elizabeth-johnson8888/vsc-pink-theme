@@ -78,7 +78,16 @@
 		"input.background": "#81152c",
 		"input.foreground": "#f7cdd6",
 		"input.placeholderForeground": "#f7cdd6",
-		// inegr
+		// panel
+		"panel.background": "#a42f49",
+		"panel.border": "#c5566e",
+		"panelTitle.activeForeground": "#fae8ec",
+		"panelTitle.inactiveForeground": "#d8cdd0",
+		"panelSection.border": "#c9022d",
+		"panelSectionHeader.background": "#81152c",
+		// integrated tunnel
+		"terminal.background": "#a42f49",
+		"terminal.border": "#81152c",
 	},
 	"tokenColors": [],
 }
