@@ -22,6 +22,7 @@
 		"foreground": "#fa3a64",
 		"disabledForeground": "#81152c",
 		"widget.shadow": "#4e0b50",
+		"icon.foreground": "#f7cdd6",
 		// Title Bar Colors
 		"titleBar.activeBackground": "#81152c",
 		"titleBar.activeForeground": "#f7cdd6",
@@ -31,7 +32,7 @@
 		"editorGroup.border": "#ff0055c9",
 		"editorGroup.dropBackground": "#fa3a6477",
 		"editorGroupHeader.tabsBorder": "#f7cdd6",
-		"editorGroupHeader.border":"#f7cdd6",
+		"editorGroupHeader.border": "#f7cdd6",
 		"editorGroupHeader.tabsBackground": "#dc778d",
 		// tabs
 		"tab.activeForeground": "#81152c",
@@ -43,8 +44,8 @@
 		"tab.unfocusedInactiveForeground": "#f9d4dc",
 		"tab.unfocusedInactiveBackground": "#c5566e",
 		// staatus bar (bar on botton of screen)
-		"statusBar.foreground":"#f7cdd6",
-		"statusBar.background":"#81152c",
+		"statusBar.foreground": "#f7cdd6",
+		"statusBar.background": "#81152c",
 		"statusBar.border": "#81152c",
 		"statusBar.debuggingBackground": "#81152c",
 		"statusBar.noFolderBackground": "#81152c",
@@ -65,6 +66,7 @@
 		// text colors
 		"textLink.activeForeground": "#81152c",
 		"textLink.foreground": "#d31a42",
+		
 		// button control
 		"button.background": "#c5566e",
 		"button.foreground": "#f7cdd6",
@@ -81,13 +83,15 @@
 		// panel
 		"panel.background": "#a42f49",
 		"panel.border": "#c5566e",
-		"panelTitle.activeForeground": "#fae8ec",
+		"panelTitle.activeForeground": "#faeff1",
 		"panelTitle.inactiveForeground": "#d8cdd0",
-		"panelSection.border": "#c9022d",
+		"panelSection.border": "#c5566e",
 		"panelSectionHeader.background": "#81152c",
+		"panelTitle.activeBorder": "#c9022d",
 		// integrated tunnel
-		"terminal.background": "#a42f49",
-		"terminal.border": "#81152c",
+		"terminal.foreground": "#f7cdd6",
+		"terminal.selectionBackground": "#f7cdd6",
+		"terminal.selectionForeground": "#81152c",
 	},
 	"tokenColors": [],
 }
